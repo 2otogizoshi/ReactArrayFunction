@@ -1,2 +1,0 @@
-# ReactArrayFunction
-Created with CodeSandbox
